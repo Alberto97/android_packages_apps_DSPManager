@@ -105,6 +105,11 @@
   <string name="pref_wm8994_adc_osr128_summary">Convertisseur analogique vers digital, suréchantillonnage de 128x — augmente la qualité des enregistrements</string>
   <string name="pref_wm8994_fll_tuning_title">Horloge audio personalisée</string>
   <string name="pref_wm8994_fll_tuning_summary">Utiliser une horloge audio pour WM8994 personnalisée — améliore la qualité du son</string>
+  <string name="navigation_drawer_toggle">Ouvrir le panneau</string>
+  <string name="navigation_drawer_open">Ouvrir le panneau latéral</string>
+  <string name="navigation_drawer_close">Fermer le panneau latéral</string>
+  <string name="navigation_toggle_drawer">Utiliser le panneau latéral</string>
+  <string name="navigation_toggle_tabbed">Utiliser les onglets</string>
   <string name="help_title">Guide utilisateur</string>
   <string name="help_text"><b>Qu\'est-ce que DSP Manager ?</b>
 \n

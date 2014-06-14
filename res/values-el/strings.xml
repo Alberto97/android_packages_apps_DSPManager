@@ -105,6 +105,12 @@
   <string name="pref_wm8994_adc_osr128_summary">128x oversampling στον ψηφιακό-σε-αναλογικό μετατροπέα — αυξάνει την ποιότητα των ηχογραφήσεων</string>
   <string name="pref_wm8994_fll_tuning_title">Βελτιωμένο audio clock</string>
   <string name="pref_wm8994_fll_tuning_summary">Χρήση βελτιωμένου audio clock στο WM8994 — βελτιώνει την ποιότητα του ήχου</string>
+  <!-- Drawer -->
+  <string name="navigation_drawer_toggle">Εναλλαγή σε συρτάρι</string>
+  <string name="navigation_drawer_open">Άνοιγμα συρταριού πλοήγησης</string>
+  <string name="navigation_drawer_close">Κλείσιμο συρταριού πλοήγησης</string>
+  <string name="navigation_toggle_drawer">Αλλαγή σε Συρτάρι</string>
+  <string name="navigation_toggle_tabbed">Αλλαγή σε Καρτέλες</string>
   <string name="help_title">Βοήθεια</string>
   <string name="help_text"><b>Τι είναι το DSP Manager;</b>
 \n\n

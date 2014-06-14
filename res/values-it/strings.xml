@@ -105,6 +105,12 @@
   <string name="pref_wm8994_adc_osr128_summary">Convertitore analogico-digitale con sovracampionamento a 128x — Incrementa la qualità delle registrazioni</string>
   <string name="pref_wm8994_fll_tuning_title">Regola clock audio</string>
   <string name="pref_wm8994_fll_tuning_summary">Usa il clock regolato della sorgente audio WM8994 — Migliora la qualità del suono</string>
+  <!-- Drawer -->
+  <string name="navigation_drawer_toggle">Toggle Drawer</string>
+  <string name="navigation_drawer_open">Attiva navigazione drawer</string>
+  <string name="navigation_drawer_close">Disattiva navigazione drawer</string>
+  <string name="navigation_toggle_drawer">Passa al Drawer</string>
+  <string name="navigation_toggle_tabbed">Passa alle Tab</string>
   <string name="help_title">Manuale d\'uso</string>
   <string name="help_text"><b>Che cos\'è DSP Manager?</b>
 \n

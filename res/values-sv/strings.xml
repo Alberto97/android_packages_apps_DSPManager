@@ -105,6 +105,8 @@
   <string name="pref_wm8994_adc_osr128_summary">128x översampling vid A/D-omvandling — ökar inspelningskvalitet</string>
   <string name="pref_wm8994_fll_tuning_title">Stämd audioklocka</string>
   <string name="pref_wm8994_fll_tuning_summary">Använd stämd ljudklockkälla för WM8994 — förhöjer ljudkvalitet</string>
+  <string name="navigation_toggle_drawer">Byt till lådvy</string>
+  <string name="navigation_toggle_tabbed">Byt till flikvy</string>
   <string name="help_title">Hjälp</string>
   <string name="help_text"><b>Vad är DSP-inställningar?</b>
 \n\n
